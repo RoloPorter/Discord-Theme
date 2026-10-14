@@ -21,7 +21,7 @@
 */
 
 /*porter*/
-@import url('https://github.com/RoloPorter/Discord-Theme/blob/main/Porter.theme.css');
+@import url('https://raw.githubusercontent.com/RoloPorter/Discord-Theme/main/Porter.theme.css');
 
 /*removable addons*/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
