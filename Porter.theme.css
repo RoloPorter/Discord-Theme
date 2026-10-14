@@ -27,15 +27,13 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
-@import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
+
 
 /*additional addons*/ /*(remove the both * to use)*/
-/*@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");*/
 
 
-/*Chillax Roots*/
+
+/*Porter Roots*/
 :root {
     /*background image*/ /*(replace the link to use)*/
     --background-image: var(--wallpaper);
@@ -68,7 +66,7 @@
 
 /*roots*/ /*both dark and light*/
 :root {
-    --user-name: "King";
+    --user-name: "Porter";
     --edited-message: " EDITED ✎ ";
     --font-name: Poppins;
     --font-size: 13px;
@@ -92,9 +90,9 @@
     --rs-phone-color: var(--rs-online-color);
 
 
-    /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
+    /*porter colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
     --accentcolor: 251, 84, 84;
-    /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
+    /*porter colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
     --accentcolorV2: #fb5454;
 
 
@@ -157,34 +155,18 @@
 
 /*Permissions*/
 /*
--You do not have the rights to use our theme name Chillax™ on other projects 
+-You do not have the rights to use our theme name Porter™ on other projects 
 -You do not have the rights to remove our theme watermark in the theme
 -You do not have the rights to change this theme author name to anyone
 */
 
 /*credits*/
 /*
-========================= Chillax Squad =========================
- Wq                                       Author
- Demented_Elmo                            Co-Author
-=================================================================
- Embeds                                   by Alexis WyvernZu
- Active Now CSS                           by Cedrick
- Memberlist until hover                   by Cedrick
- Hide User Buttons until Hover            by Commie Axolotl
- Center profile badge, avatar and name    by Commie Axolotl
- Account Details Grid                     by Dablulite
- Blurple recolour                         by DevilBro
- Emoji Replace                            by DevilBro
- Settings Icons                           by DevilBro
- Connection Issue Let Me Be               by Disease
- Radial Status                            by Gibbu
- About Me Clamp                           by ItMeSarah
- Better Jump to Present Button            by Lonk
- Better Mark As Read Button               by Lonk
- IconPack                                 by Lavender
- Discolored                               by Nyri4
- Better Spotify Control                   by Uri
+========================= Porter Family =========================
+ Rolo                              Author
+ Mitch                           Co-Author
+ Bands                           Co-Author
+
 =================================================================
 */
-/*I really want to give a special shoutout to all of you for supporting me in this theme, thank you all.*/
+
