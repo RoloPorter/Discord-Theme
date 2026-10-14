@@ -1,28 +1,27 @@
 /**
  * @name Porter
- * @author Chillax Squad
- * @authorLink https://github.com/warrayquipsome/Chillax#author
- * @version 1.0.1
- * @invite DrfX6286kF
- * @description The theme where calm meets customization.
- * @source https://github.com/warrayquipsome/Chillax
+ * @author RoloPorter
+ * @authorLink https://github.com/RoloPorter
+ * @version 1
+ * @description Porter theme with constant updates
+ * @source https://github.com/RoloPorter/Discord-Theme
 */
 
 /*
-     ⸙  ────     ────     ───── ❝ 𝐚𝐥𝐥 𝐫𝐢𝐠𝐡𝐭 𝐡𝐞𝐫𝐞 ❞ ─────    ────     ────  ⸙
-  ╭─ ━━━━━━━━━ ━━━━━━━ ━━━━━━━━━ -ˋˏ ༻🂡༺ ˎˊ- ━━━━━━━━━ ━━━━━━━ ━━━━━━━━━ ─╮
-          █████╗   ██╗  ██╗  ██╗  ██╗      ██╗       █████╗   ██╗  ██╗       
-         ██╔══██╗  ██║  ██║  ██║  ██║      ██║      ██╔══██╗  ╚██╗██╔╝       
-  ||     ██║  ╚═╝  ███████║  ██║  ██║      ██║      ███████║   ╚███╔╝      ||
-         ██║  ██╗  ██╔══██║  ██║  ██║      ██║      ██╔══██║   ██╔██╗        
-         ╚█████╔╝  ██║  ██║  ██║  ███████╗ ███████╗ ██║  ██║  ██╔╝╚██╗       
-          ╚════╝   ╚═╝  ╚═╝  ╚═╝  ╚══════╝ ╚══════╝ ╚═╝  ╚═╝  ╚═╝  ╚═╝       
-  ╰─ ━━━━━━━━━ ━━━━━━━ ━━━━━━━━━ -ˋˏ ༻-༺ ˎˊ- ━━━━━━━━━ ━━━━━━━ ━━━━━━━━━ ─╯
+ ██▓███   ▒█████   ██▀███  ▄▄▄█████▓▓█████  ██▀███  
+▓██░  ██▒▒██▒  ██▒▓██ ▒ ██▒▓  ██▒ ▓▒▓█   ▀ ▓██ ▒ ██▒
+▓██░ ██▓▒▒██░  ██▒▓██ ░▄█ ▒▒ ▓██░ ▒░▒███   ▓██ ░▄█ ▒
+▒██▄█▓▒ ▒▒██   ██░▒██▀▀█▄  ░ ▓██▓ ░ ▒▓█  ▄ ▒██▀▀█▄  
+▒██▒ ░  ░░ ████▓▒░░██▓ ▒██▒  ▒██▒ ░ ░▒████▒░██▓ ▒██▒
+▒▓▒░ ░  ░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░  ▒ ░░   ░░ ▒░ ░░ ▒▓ ░▒▓░
+░▒ ░       ░ ▒ ▒░   ░▒ ░ ▒░    ░     ░ ░  ░  ░▒ ░ ▒░
+░░       ░ ░ ░ ▒    ░░   ░   ░         ░     ░░   ░ 
+             ░ ░     ░                 ░  ░   ░     
 
 */
 
 /*porter*/
-@import url('https://warrayquipsome.github.io/Chillax/chillax.css');
+@import url('https://github.com/RoloPorter/Discord-Theme/blob/main/Porter.theme.css');
 
 /*removable addons*/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
